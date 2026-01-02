@@ -1,6 +1,6 @@
 # Racket Recursive SSG
 
-![[ESTRUCTURA.png]]
+![Estructura del proyecto](ESTRUCTURA.png)
 **LÓGICA INTERNA**
 
 Un generador de sitios estáticos (SSG) minimalista escrito en **Racket**. 
