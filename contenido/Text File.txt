@@ -1,0 +1,3 @@
+texto de ejemplo
+
+esto se filtra, solo los md se aceptan:
